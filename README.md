@@ -11,4 +11,4 @@ A repository with cool HTML and CSS websites templates with ChatGPT
 
 ## 2) What's my IP :
 ### Example :
-<img width="1502" alt="Capture d’écran 2024-06-04 à 22 14 02" src="https://github.com/Enzo-zsh/chatgpt-website-template/assets/74509560/e74caa2e-e462-4cb4-b4d8-019cc9eb8416">
+<img width="1502" alt="Capture d’écran 2024-06-04 à 22 14 02" src="https://github.com/Enzo-zsh/chatgpt-website-template/assets/74509560/124d5047-5928-4f84-9e78-c5fd776e8a4e">
